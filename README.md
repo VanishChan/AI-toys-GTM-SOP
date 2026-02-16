@@ -1,1 +1,0 @@
-# AI-toys-GTM-SOP
