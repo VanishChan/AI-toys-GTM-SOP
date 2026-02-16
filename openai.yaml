@@ -1,0 +1,4 @@
+interface:
+  display_name: "SKU GTM资产产出"
+  short_description: "产出SKU GTM资产并完成三重验收"
+  default_prompt: "根据我提供的SKU Brief，输出完整的SKU GTM资产产出包（平台矩阵、AI执行包、三重验收与放行结论）。"
